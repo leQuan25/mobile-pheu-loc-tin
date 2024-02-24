@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "943173883362",
+    "project_id": "celtic-artwork-406915",
+    "storage_bucket": "celtic-artwork-406915.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943173883362:android:565b1f4c5b9ff65113d5bb",
+        "android_client_info": {
+          "package_name": "quan.lpn.new_insight_for_life"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSc9DShzdo0ViMWDXU0STQpMwVqEIBR24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
